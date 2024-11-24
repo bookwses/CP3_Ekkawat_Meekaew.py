@@ -1,0 +1,10 @@
+FE = input("Foundation English : ")
+GB = input("General Business : ")
+ITCS = input("Introduction to Computer Systems : ")
+CP = input("Computer Programming : ")
+
+print("--- Your Score ---")
+print("Foundation English : " + FE)
+print("General Business : " + GB)
+print("Introduction to Computer Systems : " + ITCS)
+print("Computer Programming : " + CP)
